@@ -48,11 +48,10 @@
 ```javascript
 const thai = {
   pronouns: "he" | "him",
-  code: [Java, Spring Boot, C, C++],
-  tools: [React, Node, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {},
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  code: [C, C++, Java, Spring Boot],
+  tools: [Vaadin, Docker],
+  architecture: ["Microservices", Design Patterns"],
+  techCommunities: {}
 }
 ```
 
