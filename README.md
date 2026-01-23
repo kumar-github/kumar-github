@@ -172,3 +172,5 @@ const thai = {
 ---
 
 <br>
+
+<a href="https://app.daily.dev/saravana_kumar_m"><img src="https://api.daily.dev/devcards/v2/ru7-Tv_85.png?type=default&r=7dg" width="356" alt="Saravana Kumar M's Dev Card"/></a>
