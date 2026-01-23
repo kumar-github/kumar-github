@@ -11,8 +11,7 @@
 
 <h1 align="center"><b>Hi , I'm Kumar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
-<a href="https://app.daily.dev/saravana_kumar_m"><img src="https://api.daily.dev/devcards/v2/ru7-Tv_85.png?type=default&r=7dg" width="356" alt="Saravana Kumar M's Dev Card"/></a>
+<a href="https://app.daily.dev/saravana_kumar_m"><img src="https://api.daily.dev/devcards/v2/ru7-Tv_85.png?type=wide&r=egs" width="652" alt="Saravana Kumar M's Dev Card"/></a>
 
 <!--
 
@@ -175,5 +174,3 @@ const thai = {
 ---
 
 <br>
-
-<a href="https://app.daily.dev/saravana_kumar_m"><img src="https://api.daily.dev/devcards/v2/ru7-Tv_85.png?type=default&r=7dg" width="356" alt="Saravana Kumar M's Dev Card"/></a>
