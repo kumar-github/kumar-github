@@ -10,7 +10,7 @@
 
 <!-- The typing animation -->
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=10&color=2F9533&background=373EA400&center=true&vCenter=true&width=600&lines=A+Java+Developer;A+Java+Trainer;A+Lifelong+Learner;A+person+with+OCD" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=10&color=2F9533&background=373EA400&center=true&vCenter=true&width=600&lines=A+Java+Developer;A+Java+Trainer;A+Lifelong+Learner;A+person+with+OCPD" alt="Typing SVG" />
 </p>
 
 ---
